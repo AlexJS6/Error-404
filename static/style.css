@@ -1,0 +1,36 @@
+header {
+    text-align: center;
+    font-size: 200%;
+}
+h1 {
+    color: red;
+}
+section {
+    font-size: 1500%;
+    text-align: center;
+}
+section {
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    color: #f64;
+    position: relative;
+}
+button {
+    height: 40px;
+    width: 140px;
+    background-color: #0cf;
+    margin-top: 80px;
+    margin-left: 680px;
+}
+a {
+    text-decoration: none;
+    font-size: 130%;
+}
+.left {
+    position: absolute;
+}
+body {
+    background-image: url(https://images.assetsdelivery.com/compings_v2/Orla/Orla1307/Orla130700323.jpg);
+    background-size: cover;
+}
+
