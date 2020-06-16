@@ -56,7 +56,7 @@ button {
     animation-name: rotateAnimation;
     animation-timing-function: ease;
     animation-delay: 0.3s;
-    animation-duration: 2.3s;
+    animation-duration: 0.5s;
     animation-iteration-count: infinite;
 }
 button:hover {
